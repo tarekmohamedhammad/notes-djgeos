@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tarekmohamedhammad.github.io/notes-djgeos/sitemap.xml
